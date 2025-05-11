@@ -2,7 +2,7 @@
 
 ## 📷 Preview
 
-![Color Picker Preview]()
+![Color Picker Preview]( https://anuj-itro.github.io/color-picker-ITRO/)
 
 ---
 
