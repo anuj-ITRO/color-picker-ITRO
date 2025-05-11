@@ -2,7 +2,7 @@
 
 ## 📷 Preview
 
-![Color Picker Preview](https://dummyimage.com/600x400/eeeeee/333333&text=Color+Picker+Preview)
+![Color Picker Preview](https://anuj-itro.github.io/color-picker-ITRO/)
 
 ---
 
