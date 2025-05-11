@@ -5,6 +5,11 @@
 ![Color Picker Preview]( https://anuj-itro.github.io/color-picker-ITRO/)
 
 ---
+## Live Demo
+
+*Check it Live:*  
+[https://anuj-ITRO.github.io/calculater-ITRO/]()  
+(Hosted on GitHub Pages)
 
 ## 🛠 How to Use
 
