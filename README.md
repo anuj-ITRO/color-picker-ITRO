@@ -8,7 +8,7 @@
 ## Live Demo
 
 *Check it Live:*  
- https://anuj-itro.github.io/color-picker---ITRO/[]( https://anuj-itro.github.io/color-picker-ITRO/)  
+ [https://anuj-itro.github.io/color-picker-ITRO/]( https://anuj-itro.github.io/color-picker-ITRO/)  
 (Hosted on GitHub Pages)
 
 ## 🛠 How to Use
